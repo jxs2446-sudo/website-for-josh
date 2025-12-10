@@ -25,9 +25,6 @@ Rock climbing, competitive gaming, and guitar-playing are my main joys in life. 
 
 If you'd like to reach out to me, feel free to contact my email at jj.silalahi21@gmail.com, or connect with me at https://www.linkedin.com/in/josh-writes/
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+
+
 
