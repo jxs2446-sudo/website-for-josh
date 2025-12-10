@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/picofme.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/josh-writes/
+    - icon: envelope
+      text: Email
+      href: "mailto:jj.silalahi21@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Hi. I'm Josh. Welcome to my website!
+
+I work in the Animal Resource Center at Case Western Reserve University as an Animal Husbandry Technician. I take care of a few of their mouse rooms, which hold dorms housing thousands of research mice used by multiple laboratories at the university. I work diligently to ensure that my animals are cared for compassionately, and watched over carefully. Thanks to the university tuition benefit that is afforded to full-time employees, I also study as a part-time Epidemiology and Biostatistics Master's student at Case. 
+
+I was an English major as an undergraduate at Boston College but I have been interested in scientific research since graduating in 2022. I worked for almost two years assisting a data management team lead at a contract research organization called IQVIA, where I was exposed to Biostatistics and developed a curiosity for the field that led me here.
+
+Rock climbing, competitive gaming, and guitar-playing are my main joys in life. I could talk to anyone all day about them.
+
+If you'd like to reach out to me, feel free to contact my email at jj.silalahi21@gmail.com, or connect with me at https://www.linkedin.com/in/josh-writes/
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
