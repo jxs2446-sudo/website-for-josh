@@ -1,0 +1,69 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Joshua Silalahi"                                # Your name
+  description: "Biostatistics Master's student at Case Western Reserve University with experience in epidemiology, research data management, and laboratory science."   # A brief slogan (optional)
+  image: img/picofme.jpg
+  
+  favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/logo.png
+    
+    # your sub-pages
+    left:
+      - text: "Writing"
+        href: writing/index.qmd
+      - text: "Resume"
+        href: cv/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+    
+    
+    # your social media handles
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/josh-writes/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:jj.silalahi21@gmail.com"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: |
+       <span>© 2026 Joshua Silalahi</span>
+  
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

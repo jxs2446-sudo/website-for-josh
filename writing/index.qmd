@@ -1,0 +1,32 @@
+---
+title: "Writing Projects"
+format: html
+---
+
+Here is a working collection of some of my writing. I've only recently joined a lab and become serious about developing as a modern scientist, so I currently don't have any scientific publications to share, but that will come with time. For now, feel free to read through some of the creative pieces included at this page. 
+
+## Featured Work:
+
+### The Expansion Event
+
+An in-progress, formally experimental fiction piece that was originally created during an independent, avant-garde fiction writing thesis project at Boston College. I'm working on converting this beginning work into a proper fiction novel, which I hope can one day be used as the foundation for an animated series.
+
+<iframe src="papers/piece2.pdf" width="150%" height="800px">
+
+</iframe>
+
+### Final Days Radio
+
+A short story written during an Avant-Garde Fiction Writing Class that I intend to include in a collection of related short stories. 
+
+<iframe src="papers/piece1.pdf" width="150%" height="800px">
+
+</iframe>
+
+------------------------------------------------------------------------
+
+## More Writing
+
+-   **A Matter of Time** – [View PDF](papers/piece3.pdf)
+-   **Enantiomers** – [View PDF](papers/piece4.pdf)
+-   **Chris' Skateboard** – [View PDF](papers/piece5.pdf)

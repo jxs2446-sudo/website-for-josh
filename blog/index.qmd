@@ -1,0 +1,8 @@
+---
+title: "Blog"
+format: html
+---
+
+Blog Post 1 | 18-03-2026
+
+This is just a placeholder for when I actually complete the blogpost 
