@@ -10,5 +10,8 @@
   },
   "blog/index.qmd": {
     "index.html": "4fffc828"
+  },
+  "404.qmd": {
+    "404.html": "d6f84d04"
   }
 }
