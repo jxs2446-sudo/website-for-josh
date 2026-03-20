@@ -60,7 +60,8 @@ execute:
 
 format:
   html:
-    fontsize: 1.1em
+    fontsize: 1.2em
+    linestretch: 1.6
     theme: 
       - flatly
       - html/styles.scss
