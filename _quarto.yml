@@ -17,7 +17,7 @@ website:
     # your sub-pages
     left:
       - text: "Home"
-      - href: index.qmd
+      - href: /
       - text: "Writing"
         href: writing/index.qmd
       - text: "Resume"
